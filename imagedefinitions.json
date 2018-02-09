@@ -1,6 +1,6 @@
 [
     {
-        "name": "ecs_tast_test2",
+        "name": "sample_container",
         "imageUri": "696382228472.dkr.ecr.us-east-1.amazonaws.com/cr_ecs_test:latest"
     }
 ]
